@@ -11,7 +11,7 @@
 - Automatic Numbering / Padding – Adds numeric suffixes with support for padded numbering (e.g., _01, _002).
 - Alphabetical Increment Support – After Z, tool automatically continues with AA, AB, etc.
 - Undo-Friendly – All operations are undoable within Maya.
-- Simple UI – Easy-to-use interface built with PySide2/PySide6 for Maya.
+- Simple UI – Easy-to-use interface
 
 # UI Features
 - Base Name Field: Enter a custom name for objects.
