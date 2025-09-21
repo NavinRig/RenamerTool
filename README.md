@@ -1,9 +1,7 @@
 # RenamerTool
- Renamer Tool
- Overview
-
  The Maya Renamer Tool is a lightweight, user-friendly Python tool for Autodesk Maya that allows you to batch rename objects in your scene quickly and consistently.
  It is designed to streamline naming workflows in production environments, helping artists maintain clean and organized scene hierarchies
+
 ![RenamerTool](https://github.com/user-attachments/assets/6146a115-83f1-400c-ab92-62fba313d5e1)
 
 # Key Features
@@ -23,6 +21,5 @@
 - Rename Button: One-click execution.
 
 # Technical Details
-- Language: Python (Maya Python API + cmds)
-- UI: PySide2 (Qt-based, native Maya look)
+- Language: Python
 - Compatibility: Maya 2020+, tested up to Maya 2026
